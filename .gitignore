@@ -1,0 +1,14 @@
+# entornos virtuales
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+
+# credenciales reales (el .env.example SÍ se sube)
+.env
+
+# editores
+.idea/
+.vscode/
